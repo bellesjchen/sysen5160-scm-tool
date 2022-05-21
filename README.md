@@ -124,18 +124,19 @@ In order to create the desired multi page structure, we decided to use a library
 
 # Use case - Sijie
 
-1.Choose the delivery mothod
-1.1Data Collection
-1.2Find the order cost
-1.2.1Material Cost Prediction
-1.2.1.1Unit Cost
-1.2.1.2Carrier Cost
-1.2.2Shipping Cost Estimation 
-1.2.3Exchange Rate Changes Estimation
-2.Find the recommended customer service level
-3.Find the most economical order size
-3.1Find the customer demands
-4.Find the target inventory
+## Choose the delivery mothod
+### Data Collection
+### Find the order cost
+#### Material Cost Prediction
+##### Unit Cost
+##### Carrier Cost
+#### Shipping Cost Estimation 
+#### Exchange Rate Changes Estimation
+## Find the recommended customer service level
+## Find the most economical order size
+### Find the customer demands
+## Find the target inventory
+
 # Stakeholders - Donghao
 The Supply Chain Wizard(SCW) is a powerful tool that can help the supply chain department improve working efficiency and working performance. The financial department can be also benefited from the tool by its strong flexibility and data visualization part. The following is the major stakeholder of the app system. 
  
