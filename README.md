@@ -4,7 +4,7 @@ The all in one tool for supply chain mangers
 ### Sijie Chen(sc2944)
 ### Keshan Chen(kc766)
 ### Fernando Celaya(fjc49)
-#### For detailed documentation (including screenshots), please refer to https://docsCancel changes.google.com/document/d/1x1Y2nP7ZF6BjZqnmfv3iMOEAJCe7g9O-JJlvDwo7cjk/edit#
+#### For detailed documentation (including screenshots), please refer to [https://docs changes.google.com/document/d/1x1Y2nP7ZF6BjZqnmfv3iMOEAJCe7g9O-JJlvDwo7cjk/]
 
 # Abstract - Fernando
 Supply chain management is a key activity of any product-driven company, and its correct or incorrect implementation can have great effects on the bottom line, customer satisfaction and general resilience of the company. As supply chains grow in complexity, more tools have appeared to help guide any supply chain related decision. However, these tools often rely on huge upfront implementation costs and deep integration with other business processes and decision support systems. This creates a significant divide in supply chain management quality between big and small companies, with the latter resorting to heuristics and general rules that tend to be a lot less efficient. In this paper we outline the creation of a modular open source supply chain management tool suited for small businesses, which can be indications to even the least technologically advanced companies. With this tool we hope small businesses can optimize their operations and reduce the advantage of big businesses with the capital needed to perform in-depth inventory analyses. 
