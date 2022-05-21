@@ -103,7 +103,8 @@ After that, you can choose the date you want to source the raw material.
 The system will give you a prediction value.
 
 There are still some shortcomings in this algorithm, for we do not take many variables into consideration. In next step I want to further adjust the prediction model by modifying various parameters, such as changing the number of LSTM layers, increasing the training algebra, etc.
-Inventory management - Donghao
+
+## Inventory management - Donghao
  This part mainly helps the logistic engineer set up the proper order size, fill rate, and safety stock level, and picks the proper shipping method. This part will integrate with the most common strategy, the order-up-to policy, in the supply chain industry. The order-up-to policy is to set up the protection safety stock level in the inventory house to guarantee the fill rate, and the logistic engineer will make the order depend on the shipping lead time. This part will also demonstrate the operation cost lively to help the logistic engineer find out the optimal inventory management parameter.
 
 According to the information input by the stakeholders(the holding cost, backorder cost, and the shipping method), we will calculate the most economical order size. This amount is calculated following the equation of the economic order quantity model and the following formula. (D: demand rate, S: order cost, H: holding cost). We will also suggest customer service levels based on the economic aspect follow the critical ratio. The equation is following: (h: holding cost, b: backorder cost). 
